@@ -1,0 +1,22 @@
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\bin\Debug\SaveFrom File.exe.config
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom File.csprojResolveAssemblyReference.cache
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom_File.Form1.resources
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom_File.Properties.Resources.resources
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom File.csproj.GenerateResource.Cache
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\bin\Debug\SaveFrom File.exe
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\bin\Debug\SaveFrom File.pdb
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom File.exe
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom File.pdb
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\bin\Debug\MyDatabase.mdf
+c:\users\stiklover\documents\visual studio 2013\Projects\SaveFrom File\SaveFrom File\bin\Debug\MyDatabase_log.ldf
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\bin\Debug\SaveFrom File.exe.config
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom File.exe
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom File.pdb
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\bin\Debug\MyDatabase.mdf
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\bin\Debug\MyDatabase_log.ldf
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\bin\Debug\SaveFrom File.exe
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\bin\Debug\SaveFrom File.pdb
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom File.csprojResolveAssemblyReference.cache
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom_File.Form1.resources
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom_File.Properties.Resources.resources
+C:\Users\Vova\Desktop\SaveFrom File\SaveFrom File\obj\Debug\SaveFrom File.csproj.GenerateResource.Cache
